@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+    <item android:id="@+id/action_hybrid" android:title="@string/map_type_hybrid"
+        android:orderInCategory="10" app:showAsAction="never" />
+    <item android:id="@+id/action_satellite" android:title="@string/map_type_satellite"
+        android:orderInCategory="11" app:showAsAction="never" />
+    <item android:id="@+id/action_normal" android:title="@string/map_type_normal"
+        android:orderInCategory="12" app:showAsAction="never" />
+    <item android:id="@+id/action_terrain" android:title="@string/map_type_terrain"
+        android:orderInCategory="13" app:showAsAction="never" />
+</menu>

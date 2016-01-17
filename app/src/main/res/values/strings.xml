@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ERoadAssignment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- Map types -->
+    <string name="map_type_hybrid">Hybrid View</string>
+    <string name="map_type_normal">Normal View</string>
+    <string name="map_type_satellite">Satellite View</string>
+    <string name="map_type_terrain">Terrain View</string>
+</resources>
